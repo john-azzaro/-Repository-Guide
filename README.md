@@ -8,12 +8,9 @@ will continue to grow and further notes and connections will be added as time go
 <br>
 
 
-| **Study**                                                                                  | **Demo**                             | **Status**                                               |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------| --------------------------------------------------------------------------------|
-| [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  | [Yes! Click Here for Live Demo](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")  |  *Completed* |
-| **Description:** Examination of basic calculator programming and functionality such as current and previous display, basic operands, clear, delete, equals. Study also includes simple application of OOP, ES6 classes, and constructors, etc  |
-
-
+| **Study**                                       |   **Description**                                         | **Demo**                             | **Status**                                               |
+| --------------------------------------------------| ----------------------------------------| ----------------------------------------------| --------------------------------------------------------------------------------|
+| [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  | Examination of basic calculator programming and functionality  | [Yes! Click Here for Live Demo](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")  |  *Completed* |
 
 
 
