@@ -15,7 +15,7 @@ will continue to grow and further notes and connections will be added as time go
 **Description:** Examination of basic calculator programming and functionality (current and previous display, basic operands. 
 clear, delete, equals), including a simple application of OOP, ES6 classes and constructors, etc.
 
-**Link:** [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  **Live Demo:** [Calculator Demo](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")
+**Link:** [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  **Demo:** [Yes](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")
 
 </dd>
 </dl>
