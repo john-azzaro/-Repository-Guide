@@ -8,9 +8,9 @@ will continue to grow and further notes and connections will be added as time go
 <br>
 
 
-| **Study**                                       |   **Description**                                         | **Demo**                             | **Status**                                               |
-| --------------------------------------------------| ----------------------------------------| ----------------------------------------------| --------------------------------------------------------------------------------|
-| [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  | Examination of basic calculator programming and functionality  | [Yes! Click Here for Live Demo](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")  |  *Completed* |
+| **Study**                   |   **Description**                  | **Demo**          | **Status**                |
+| ----------------------------| -----------------------------------| ------------------| --------------------------|
+| [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  | Examination of basic calculator programming and functionality  | [Yes](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")  |  *Completed* |
 
 
 
