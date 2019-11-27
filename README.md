@@ -23,7 +23,7 @@ clear, delete, equals), including a simple application of OOP, ES6 classes and c
 <br>
 
 ------
-### Study-Calculators
+### ABC123
 <dl>
 <dd>
 
@@ -37,7 +37,7 @@ clear, delete, equals), including a simple application of OOP, ES6 classes and c
 <br>
 
 ------
-### Study-Calculators
+### ABC123
 <dl>
 <dd>
 
