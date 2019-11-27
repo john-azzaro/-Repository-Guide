@@ -7,6 +7,7 @@ will continue to grow and further notes and connections will be added as time go
 
 <br>
 
+------
 ### Study-Calculators
 <dl>
 <dd>
