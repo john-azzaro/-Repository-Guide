@@ -19,3 +19,31 @@ clear, delete, equals), including a simple application of OOP, ES6 classes and c
 
 </dd>
 </dl>
+
+<br>
+
+------
+### Study-Calculators
+<dl>
+<dd>
+
+**Description:** 
+
+**Link:** []( "")
+
+</dd>
+</dl>
+
+<br>
+
+------
+### Study-Calculators
+<dl>
+<dd>
+
+**Description:** 
+
+**Link:** []( "")
+
+</dd>
+</dl>
