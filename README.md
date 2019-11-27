@@ -12,9 +12,9 @@ will continue to grow and further notes and connections will be added as time go
 <dl>
 <dd>
 
-**Description:** *Examination of basic calculator programming and functionality such as current and previous display, basic operands, clear, delete, equals. Study also includes simple application of OOP, ES6 classes, and constructors, etc.*
+**Description:** Examination of basic calculator programming and functionality such as current and previous display, basic operands, clear, delete, equals. Study also includes simple application of OOP, ES6 classes, and constructors, etc.
 
-**Link:** [Go to Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  
+**Link:** [Study-Calculators](https://github.com/john-azzaro/Study-Calculators "Study Calculators")  
 **Demo:** [Yes! Click Here for Live Demo](https://john-azzaro.github.io/Study-Calculators/ "Live Demo of Calculator")
 
 </dd>
