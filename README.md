@@ -8,12 +8,12 @@ will continue to grow and further notes and connections will be added as time go
 <br>
 
 ## Front End
-| **Study**                   |   **Description**                  | **Demo**          | **Status**                |
+| **Study**                   |   **Description**                  | **Demo/Example**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
-| [Study Calculators](https://github.com/john-azzaro/Study-Calculators)  | Examination of basic calculator programming and functionality  | [Yes](https://john-azzaro.github.io/Study-Calculators/)  |  *Completed* |
-| [Study Clocks](https://github.com/john-azzaro/Study-Clocks)  | Examination of basic clock programming and functionality  | [Yes](https://john-azzaro.github.io/Study-Clocks/)  |  *Completed* |
-| [Study Social Widgets](https://github.com/john-azzaro/Study-Social-Widgets)  | Implementation of Social Widgets | [Yes](https://john-azzaro.github.io/Study-Social-Widgets/)  |  *Completed* |
-| [Study Google Maps API](https://github.com/john-azzaro/Study-Google-Maps-API)  | Implementation and customization of Google maps  | [Yes](https://john-azzaro.github.io/Study-Google-Maps-API/)  |  *Completed* |
+| [Study Calculators](https://github.com/john-azzaro/Study-Calculators)  | Examination of basic calculator programming and functionality.  | [demo](https://john-azzaro.github.io/Study-Calculators/)  |  *Completed* |
+| [Study Clocks](https://github.com/john-azzaro/Study-Clocks)  | Examination of basic clock programming and functionality.  | [demo](https://john-azzaro.github.io/Study-Clocks/)  | *Completed* |
+| [Study Social Widgets](https://github.com/john-azzaro/Study-Social-Widgets)  | Implementation of Social Widgets. | [demo](https://john-azzaro.github.io/Study-Social-Widgets/)  |  *Completed* |
+| [Study Google Maps API](https://github.com/john-azzaro/Study-Google-Maps-API)  | Implementation and customization of Google maps.  | [demo](https://john-azzaro.github.io/Study-Google-Maps-API/)  |  *Completed* |
 | [study]( "")  | description  | [demo]("")  |  *status* |
 | [study]( "")  | description  | [demo]("")  |  *status* |
 | [study]( "")  | description  | [demo]("")  |  *status* |
@@ -21,19 +21,19 @@ will continue to grow and further notes and connections will be added as time go
 <br>
 
 ## Back End
-| **Study**                   |   **Description**                  | **Demo Install**          | **Status**                |
+| **Study**                   |   **Description**                  | **Demo/Example**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
-| [Study Node Web Servers](https://github.com/john-azzaro/Study-Node-Web-Servers)  | Examination of vanilla HTML servers  | **Yes**  |  *Completed* |
-| [study]( "")  | description  | [demo]("")  |  *status* |
-| [study]( "")  | description  | [demo]("")  |  *status* |
+| [Study Node Web Servers](https://github.com/john-azzaro/Study-Node-Web-Servers)  | Examination of HTML servers without frameworks.  | **Installed Demo**  |  *Completed* |
+| [Study Mongoose Schemas](https://github.com/john-azzaro/Study-Mongoose-Schemas)  | Examination of schemas, models, virtuals, instance methods, etc.  | **Demo Model**  |  *Completed* |
+| [Study Mongoose Configuration and Data Modeling](https://github.com/john-azzaro/Study-Mongoose-Configuration-and-Data-Modeling)  | Mongoose implementation  | **Installed Demo**  |  *status* |
 
 <br>
 
 ## Guides
-| **Guide**                   |   **Description**                  | **Doc**          | **Status**                |
+| **Guide**                   |   **Description**                  | **Documentation**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [Emmet Guide](https://github.com/john-azzaro/Emmet_Guide)  | Guide to Emmet abbreviations, use cases, functionality, etc.  | **Yes**  |  *Ongoing* |
-| [study]( "")  | description  | [demo]("")  |  *status* |
+| [JavaScript Recipes](https://github.com/john-azzaro/JavaScript_Recipes)  | Collection of JavaScript outlines, extended studies, etc.  | **Yes**  |  *Ongoing* |
 | [study]( "")  | description  | [demo]("")  |  *status* |
 | [study]( "")  | description  | [demo]("")  |  *status* |
 
