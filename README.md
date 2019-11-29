@@ -7,7 +7,7 @@ will continue to grow and further notes and connections will be added as time go
 
 <br>
 
-## Front End
+## Applications
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [study]()  | description  | [demo]()  |  *status* |
@@ -29,6 +29,11 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Crossfade Transition](https://github.com/john-azzaro/Study-Crossfade-Transitions)  | Crossfade transition on image with second image  | [demo](https://john-azzaro.github.io/Study-Crossfade-Transitions/)  |  *Wrap-up* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
 
 
 <br>
@@ -43,6 +48,13 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Cloud Deployment with Heroku](https://github.com/john-azzaro/Study-Cloud-Deployment-with-Heroku)  | Examination and implementation of Heroku.    |    |  *Ongoing* |
 | [Study Express Website](https://github.com/john-azzaro/Study-Express-Website)  | Deployment of Express app with template engine, etc.  | **Demo**  |  *Wrap-up* |
 | [Study Express Basic App](https://github.com/john-azzaro/Study-Express-Basic-App)  | Basic Express app with counter functionality  | **Demo**  |  *Wrap-up* |
+| [Study GET Endpoints Functionality](https://github.com/john-azzaro/Study-GET-Endpoints-Functionality)  | Practical application of GET endpoints use in Express  | **Demo**  |  *Wrap-up* |
+| [Study POST Endpoints Functionality](https://github.com/john-azzaro/Study-POST-Endpoints-Functionality)  | Practical application of POST endpoints use in Express  | **Demo**  |  *Wrap-up* |
+| [Study DELETE Endpoints Functionality](https://github.com/john-azzaro/Study-DELETE-Endpoints-Functionality) | Practical application of DELETE endpoints use in Express | **Demo** |  *Wrap-up* |
+| [Study PUT Endpoints Functionality](https://github.com/john-azzaro/Study-PUT-Endpoints-Functionality)  | Practical application of PUT endpoints use in Express  | **Demo** |  *Wrap-up* |
+| [Study Express Router](https://github.com/john-azzaro/Study-Express-Router)  | Implementation of Router in Express  | **Demo**  |  *Wrap-up* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
