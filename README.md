@@ -27,11 +27,16 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Paralax Effects](https://github.com/john-azzaro/Study-Parallax-Effects)  |Implementation of parallax effects. | [demo](https://john-azzaro.github.io/Study-Parallax-Effects/)  |  *Wrap-up* |
 | [Study CSS Transitions](https://github.com/john-azzaro/Study-CSS-Transitions)  | Color transition on user scroll.  | [demo](https://john-azzaro.github.io/Study-CSS-Transitions/)  |  *Wrap-up* |
 | [Study Crossfade Transition](https://github.com/john-azzaro/Study-Crossfade-Transitions)  | Crossfade transition on image with second image.  | [demo](https://john-azzaro.github.io/Study-Crossfade-Transitions/)  |  *Wrap-up* |
-| [study](https://github.com/john-azzaro/Study-Scroll-Animations)  | Reveal text on scroll. | [demo](https://john-azzaro.github.io/Study-Scroll-Animations/)  |  *Wrap-up* |
+| [Study Scroll Animations](https://github.com/john-azzaro/Study-Scroll-Animations)  | Reveal text on scroll. | [demo](https://john-azzaro.github.io/Study-Scroll-Animations/)  |  *Wrap-up* |
 | [Study Greensock Animation API](https://github.com/john-azzaro/Study-Greensock-Animation-API)  | Greensock animation on load.  | [demo](https://john-azzaro.github.io/Study-Greensock-Animation-API/)  |  *Wrap-up* |
 | [Study Scroll Magic API](https://github.com/john-azzaro/Study-Scroll-Magic-API)  | Scroll animation using Scroll Magic.  | [demo](https://john-azzaro.github.io/Study-Scroll-Magic-API/)  |  *Wrap-up* |
 | [Study Client Side Data Validation](https://github.com/john-azzaro/Study-Client-Side-Form-Data-Validation)  | Notifcations on form submission errors.  | [demo](https://john-azzaro.github.io/Study-Client-Side-Form-Data-Validation/)  |  *Wrap-up* |
 | [Study Responsive CSS Navigation](https://github.com/john-azzaro/Study-Responsive-CSS-Navigation)  | Responsive navigation with vanilla CSS animation.  | [demo](https://john-azzaro.github.io/Study-Responsive-CSS-Navigation/)  |  *Wrap-up* |
+| [Study JavaScript Methods](https://github.com/john-azzaro/Study-JavaScript-Methods)  | Handy cheat-sheet of JavaScript methods.  |   |  *Ongoing* |
+| [Study JavaScript Gallery](https://github.com/john-azzaro/Study-JavaScript-Gallery)  | Image gallery with main and 3 previews.  | [demo](https://john-azzaro.github.io/Study-JavaScript-Gallery/)  |  *Wrap-up* |
+| [Study-SVG-Animations](https://github.com/john-azzaro/Study-SVG-Scalable-Vector-Graphic-Animations)  | Implementation of SVG animations.  | [demo](https://john-azzaro.github.io/Study-SVG-Scalable-Vector-Graphic-Animations/)  |  *Wrap-up* |
+| [Study-CSS-Grid](https://github.com/john-azzaro/Study-CSS-Grid)  | Basic Study of CSS Grid functionality.  | [demo](https://john-azzaro.github.io/Study-CSS-Grid/)  |  *Wrap-up* |
+| [Study-CSS-Buttons](https://github.com/john-azzaro/Study-CSS-Buttons)  | Exploration of custom CSS buttons  |   |  *Wrap-up* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
@@ -64,10 +69,16 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Continuous Integration](https://github.com/john-azzaro/Study-Continuous-Integration)  | Examination of CI, TravisCI, TravisCLI, etc.  | **Demo**  |  *Wrap-up* |
 | [Study Node Authentication and Encryption with Bcrypt](https://github.com/john-azzaro/Study-Node-Authentication-and-Encryption-with-Bcrypt)  | Implementation of Bcrypt and salt/hash. | **Demo**  |  *Wrap-up* |
 | [Study MongoDB Atlas Cloud Deployment](https://github.com/john-azzaro/Study-MongoDB-Atlas-Cloud-Deployment)  | Intro to Atlas, clusters, database creation, etc.  |   |  *Wrap-up* |
-| [Study MongoDB GUI Management Tools](https://github.com/john-azzaro/Study-MongoDB-GUI-Management-Tools)  | Using Compass and Robo 3T |   |  *Wrap-up* |
+| [Study MongoDB GUI Management Tools](https://github.com/john-azzaro/Study-MongoDB-GUI-Management-Tools)  | Using Compass and Robo 3T. |   |  *Wrap-up* |
 | [Study Mongoose Configuration and Data Modeling](https://github.com/john-azzaro/Study-Mongoose-Configuration-and-Data-Modeling)  | Implementation of Express Mongoose, schemas, models, etc.  | **Demo**  |  *Wrap-up* |
-| [study]()  | description  | ****  |  *status* |
-| [study]()  | description  | ****  |  *status* |
+| [Study Node Authentication with Passport](https://github.com/john-azzaro/Study-Node-Authentication-with-Passport)  | Implementation of Passport Authentication.  | **Demo**  |  *Wrap-up* |
+| [Study Template Engines](https://github.com/john-azzaro/Study-Template-Engines)  | Template Engine examination including Pug, ejs, etc.  | **Demo**  |  *Ongoing* |
+| [Study Cloud Deployment with Heroku](https://github.com/john-azzaro/Study-Cloud-Deployment-with-Heroku)  | Heroku PaaS, deployment, dynos, etc.  |   |  *Wrap-up* |
+| [Study Mongoose CRUD Operations](https://github.com/john-azzaro/Study-Mongoose-CRUD-Operations)  | CRUD Express application with Mongoose.  | **Demo**  |  *Completed* |
+| [Basic Blog App](https://github.com/john-azzaro/Basic-Blog-App)  | Basic Blog application with Express and Mongoose.  | **Demo**  |  *Wrap-up* |
+| [Basic Blog App with Embedded Models](https://github.com/john-azzaro/Basic-Blog-App-with-Embedded-Models)  | Improved Blog Application with embedded models. | **Demo**  |  *Wrap-up* |
+| [Basic Blog App with Integration Tests](https://github.com/john-azzaro/Basic-Blog-App-with-Integration-Tests)  | Basic Express app with integration tests  | **Demo**  |  *Wrap-up* |
+| [Mongoose Integration Testing](https://github.com/john-azzaro/Study-Mongoose-Integration-Testing)  | Integrating Integration Tests into application.  | **Demo**  |  *Wrap-up* |
 | [study]()  | description  | ****  |  *status* |
 | [study]()  | description  | ****  |  *status* |
 | [study]()  | description  | ****  |  *status* |
