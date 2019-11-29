@@ -27,9 +27,11 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Paralax Effects](https://github.com/john-azzaro/Study-Parallax-Effects)  |Implementation of parallax effects. | [demo](https://john-azzaro.github.io/Study-Parallax-Effects/)  |  *Wrap-up* |
 | [Study CSS Transitions](https://github.com/john-azzaro/Study-CSS-Transitions)  | Color transition on user scroll.  | [demo](https://john-azzaro.github.io/Study-CSS-Transitions/)  |  *Wrap-up* |
 | [Study Crossfade Transition](https://github.com/john-azzaro/Study-Crossfade-Transitions)  | Crossfade transition on image with second image.  | [demo](https://john-azzaro.github.io/Study-Crossfade-Transitions/)  |  *Wrap-up* |
-| [study](https://github.com/john-azzaro/Study-Scroll-Animations)  | Reveal text on scroll | [demo](https://john-azzaro.github.io/Study-Scroll-Animations/)  |  *Wrap-up* |
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
+| [study](https://github.com/john-azzaro/Study-Scroll-Animations)  | Reveal text on scroll. | [demo](https://john-azzaro.github.io/Study-Scroll-Animations/)  |  *Wrap-up* |
+| [Study Greensock Animation API](https://github.com/john-azzaro/Study-Greensock-Animation-API)  | Greensock animation on load.  | [demo](https://john-azzaro.github.io/Study-Greensock-Animation-API/)  |  *Wrap-up* |
+| [Study Scroll Magic API](https://github.com/john-azzaro/Study-Scroll-Magic-API)  | Scroll animation using Scroll Magic.  | [demo](https://john-azzaro.github.io/Study-Scroll-Magic-API/)  |  *Wrap-up* |
+| [Study Client Side Data Validation](https://github.com/john-azzaro/Study-Client-Side-Form-Data-Validation)  | Notifcations on form submission errors.  | [demo](https://john-azzaro.github.io/Study-Client-Side-Form-Data-Validation/)  |  *Wrap-up* |
+| [Study Responsive CSS Navigation](https://github.com/john-azzaro/Study-Responsive-CSS-Navigation)  | Responsive navigation with vanilla CSS animation.  | [demo](https://john-azzaro.github.io/Study-Responsive-CSS-Navigation/)  |  *Wrap-up* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
@@ -53,12 +55,17 @@ will continue to grow and further notes and connections will be added as time go
 | [Study DELETE Endpoints Functionality](https://github.com/john-azzaro/Study-DELETE-Endpoints-Functionality) | Implementation of DELETE endpoints in Express. | **Demo** |  *Wrap-up* |
 | [Study PUT Endpoints Functionality](https://github.com/john-azzaro/Study-PUT-Endpoints-Functionality)  | Implementation of PUT endpoints in Express.  | **Demo** |  *Wrap-up* |
 | [Study Express Router](https://github.com/john-azzaro/Study-Express-Router)  | Implementation of Router in Express.  | **Demo**  |  *Wrap-up* |
-| [Study MongoDB Basics](https://github.com/john-azzaro/Study-MongoDB-Basics)  | description  |   |  *Wrap-up* |
-| [Study CRUD API Basic Operations](https://github.com/john-azzaro/Study-CRUD-API-Basic-Operations)  | Basic application of CRUD ops  | **Demo**  |  *Wrap-up* |
-| [Study REST API](https://github.com/john-azzaro/Study-REST-API)  | REST application with Router  | **Demo**  |  *Wrap-up* |
-| [Study Asynchronous Programming in Node](https://github.com/john-azzaro/Study-Asynchronous-Programming-in-Node)  | Examination of callbacks, promises, and async/await  |   |  *Wrap-up* |
+| [Study MongoDB Basics](https://github.com/john-azzaro/Study-MongoDB-Basics)  | MongoDB installation, shell, CRUD docs, etc.  |   |  *Wrap-up* |
+| [Study CRUD API Basic Operations](https://github.com/john-azzaro/Study-CRUD-API-Basic-Operations)  | Basic application of CRUD ops.  | **Demo**  |  *Wrap-up* |
+| [Study REST API](https://github.com/john-azzaro/Study-REST-API)  | REST application with Router.  | **Demo**  |  *Wrap-up* |
+| [Study Asynchronous Programming in Node](https://github.com/john-azzaro/Study-Asynchronous-Programming-in-Node)  | Callbacks, promises, and async/await.  |   |  *Wrap-up* |
 | [Study Unit Testing with Mocha and Chai](https://github.com/john-azzaro/Study-Unit-Testing-with-Mocha-and-Chai)  | Using Mocha, Chai, unit testing, suites, etc.  | **Demo**  |  *Wrap-up* |
-| [Study Integration Testing](https://github.com/john-azzaro/Study-Integration-Testing)  | Integration with http-chai  | **Demo**  |  *Wrap-up* |
+| [Study Integration Testing](https://github.com/john-azzaro/Study-Integration-Testing)  | Integration with http-chai.  | **Demo**  |  *Wrap-up* |
+| [Study Continuous Integration](https://github.com/john-azzaro/Study-Continuous-Integration)  | Examination of CI, TravisCI, TravisCLI, etc.  | **Demo**  |  *Wrap-up* |
+| [Study Node Authentication and Encryption with Bcrypt](https://github.com/john-azzaro/Study-Node-Authentication-and-Encryption-with-Bcrypt)  | Implementation of Bcrypt and salt/hash. | **Demo**  |  *Wrap-up* |
+| [Study MongoDB Atlas Cloud Deployment](https://github.com/john-azzaro/Study-MongoDB-Atlas-Cloud-Deployment)  | Intro to Atlas, clusters, database creation, etc.  |   |  *Wrap-up* |
+| [Study MongoDB GUI Management Tools](https://github.com/john-azzaro/Study-MongoDB-GUI-Management-Tools)  | Using Compass and Robo 3T |   |  *Wrap-up* |
+| [Study Mongoose Configuration and Data Modeling](https://github.com/john-azzaro/Study-Mongoose-Configuration-and-Data-Modeling)  | Implementation of Express Mongoose, schemas, models, etc.  | **Demo**  |  *Wrap-up* |
 | [study]()  | description  | ****  |  *status* |
 | [study]()  | description  | ****  |  *status* |
 | [study]()  | description  | ****  |  *status* |
