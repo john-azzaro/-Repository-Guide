@@ -5,9 +5,10 @@
 Repository Guide is intended to serve as an index links to projects and studies in one convienent place. Of course, the list 
 will continue to grow and further notes and connections will be added as time goes on.
 
+
 <br>
 
-## Applications
+## Small Applications
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [study]()  | description  | [demo]()  |  *status* |
@@ -20,11 +21,12 @@ will continue to grow and further notes and connections will be added as time go
 ## Front End
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
+| [Study API](https://github.com/john-azzaro/Study-API)  | Study of basic API implementation | [demo](https://john-azzaro.github.io/Study-API/)  |  *Wrap-up* |
 | [Study Calculators](https://github.com/john-azzaro/Study-Calculators)  | Basic calculator programming and functionality.  | [demo](https://john-azzaro.github.io/Study-Calculators/)  |  *Completed* |
 | [Study Clocks](https://github.com/john-azzaro/Study-Clocks)  | Implementation of basic analog clock.  | [demo](https://john-azzaro.github.io/Study-Clocks/)  | *Completed* |
 | [Study Social Widgets](https://github.com/john-azzaro/Study-Social-Widgets)  | Implementation of Social Widgets. | [demo](https://john-azzaro.github.io/Study-Social-Widgets/)  |  *Completed* |
 | [Study Google Maps API](https://github.com/john-azzaro/Study-Google-Maps-API)  | Implementation and customization of Google maps.  | [demo](https://john-azzaro.github.io/Study-Google-Maps-API/)  |  *Completed* |
-| [Study Paralax Effects](https://github.com/john-azzaro/Study-Parallax-Effects)  |Implementation of parallax effects. | [demo](https://john-azzaro.github.io/Study-Parallax-Effects/)  |  *Wrap-up* |
+| [Study Parallax Effects](https://github.com/john-azzaro/Study-Parallax-Effects)  |Implementation of parallax effects. | [demo](https://john-azzaro.github.io/Study-Parallax-Effects/)  |  *Wrap-up* |
 | [Study CSS Transitions](https://github.com/john-azzaro/Study-CSS-Transitions)  | Color transition on user scroll.  | [demo](https://john-azzaro.github.io/Study-CSS-Transitions/)  |  *Wrap-up* |
 | [Study Crossfade Transition](https://github.com/john-azzaro/Study-Crossfade-Transitions)  | Crossfade transition on image with second image.  | [demo](https://john-azzaro.github.io/Study-Crossfade-Transitions/)  |  *Wrap-up* |
 | [Study Scroll Animations](https://github.com/john-azzaro/Study-Scroll-Animations)  | Reveal text on scroll. | [demo](https://john-azzaro.github.io/Study-Scroll-Animations/)  |  *Wrap-up* |
@@ -91,7 +93,7 @@ will continue to grow and further notes and connections will be added as time go
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [Emmet Guide](https://github.com/john-azzaro/Emmet_Guide)  | Guide to Emmet abbreviations, use cases, functionality, etc.  | **Yes**  |  *Wrap-up* |
 | [JavaScript Recipes](https://github.com/john-azzaro/JavaScript_Recipes)  | Collection of JavaScript outlines, extended studies, etc.  | **Yes**  |  *Ongoing* |
-| [study]()  | description  | [demo]()  |  *status* |
+| [Git Guide](https://github.com/john-azzaro/Git_Guide)  | List of common Git commands and workflows  | **Yes**  |  *Ongoing* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
 | [study]()  | description  | [demo]()  |  *status* |
