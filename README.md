@@ -8,7 +8,18 @@ will continue to grow and further notes and connections will be added as time go
 
 <br>
 
-## Small Applications
+## Completed Applications
+| **Study**                   |   **Description**                  | **Demo**          | **Status**                |
+| ----------------------------| -----------------------------------| ------------------| --------------------------|
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | [demo]()  |  *status* |
+
+
+<br>
+
+## Applications in Progress
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [study]()  | description  | [demo]()  |  *status* |
