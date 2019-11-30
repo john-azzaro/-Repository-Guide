@@ -6,26 +6,16 @@ Repository Guide is intended to serve as an index links to projects and studies 
 will continue to grow and further notes and connections will be added as time goes on.
 
 
-<br>
-
-## Completed Applications
-| **Study**                   |   **Description**                  | **Demo**          | **Status**                |
-| ----------------------------| -----------------------------------| ------------------| --------------------------|
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
-
 
 <br>
 
-## Applications in Progress
+## Applications
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
+| [study]()  | description  | **** |  *status* |
+| [study]()  | description  | **** |  *status* |
+| [study]()  | description  | **** |  *status* |
+
 
 <br>
 
