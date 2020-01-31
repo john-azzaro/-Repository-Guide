@@ -28,7 +28,7 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Social Widgets](https://github.com/john-azzaro/Study-Social-Widgets)  | Implementation of Social Widgets. | [demo](https://john-azzaro.github.io/Study-Social-Widgets/)  |  *Completed* |
 | [Study Google Maps API](https://github.com/john-azzaro/Study-Google-Maps-API)  | Implementation and customization of Google maps.  | [demo](https://john-azzaro.github.io/Study-Google-Maps-API/)  |  *Completed* |
 | [Study Parallax Effects](https://github.com/john-azzaro/Study-Parallax-Effects)  |Implementation of parallax effects. | [demo](https://john-azzaro.github.io/Study-Parallax-Effects/)  |  *Completed* |
-| [Study CSS Transitions](https://github.com/john-azzaro/Study-CSS-Transitions)  | Color transition on user scroll.  | [demo](https://john-azzaro.github.io/Study-CSS-Transitions/)  |  *Wrap-up* |
+| [Study CSS Transitions](https://github.com/john-azzaro/Study-CSS-Transitions)  | Color transition on user scroll.  | [demo](https://john-azzaro.github.io/Study-CSS-Transitions/)  |  *Completed* |
 | [Study Crossfade Transition](https://github.com/john-azzaro/Study-Crossfade-Transitions)  | Crossfade transition on image with second image.  | [demo](https://john-azzaro.github.io/Study-Crossfade-Transitions/)  |  *Wrap-up* |
 | [Study Scroll Animations](https://github.com/john-azzaro/Study-Scroll-Animations)  | Reveal text on scroll. | [demo](https://john-azzaro.github.io/Study-Scroll-Animations/)  |  *Wrap-up* |
 | [Study Greensock Animation API](https://github.com/john-azzaro/Study-Greensock-Animation-API)  | Greensock animation on load.  | [demo](https://john-azzaro.github.io/Study-Greensock-Animation-API/)  |  *Wrap-up* |
