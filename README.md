@@ -37,7 +37,7 @@ will continue to grow and further notes and connections will be added as time go
 | [Study Responsive CSS Navigation](https://github.com/john-azzaro/Study-Responsive-CSS-Navigation)  | Responsive navigation with vanilla CSS animation.  | [demo](https://john-azzaro.github.io/Study-Responsive-CSS-Navigation/)  |  *Completed* |
 | [Study JavaScript Methods](https://github.com/john-azzaro/Study-JavaScript-Methods)  | Handy cheat-sheet of JavaScript methods.  |   |  *Ongoing* |
 | [Study JavaScript Gallery](https://github.com/john-azzaro/Study-JavaScript-Gallery)  | Image gallery with main and 3 previews.  | [demo](https://john-azzaro.github.io/Study-JavaScript-Gallery/)  |  *Completed* |
-| [Study-SVG-Animations](https://github.com/john-azzaro/Study-SVG-Scalable-Vector-Graphic-Animations)  | Implementation of SVG animations.  | [demo](https://john-azzaro.github.io/Study-SVG-Scalable-Vector-Graphic-Animations/)  |  *Wrap-up* |
+| [Study-SVG-Animations](https://github.com/john-azzaro/Study-SVG-Scalable-Vector-Graphic-Animations)  | Implementation of SVG animations.  | [demo](https://john-azzaro.github.io/Study-SVG-Scalable-Vector-Graphic-Animations/)  |  *Completed* |
 | [Study-CSS-Grid](https://github.com/john-azzaro/Study-CSS-Grid)  | Basic Study of CSS Grid functionality.  | [demo](https://john-azzaro.github.io/Study-CSS-Grid/)  |  *Wrap-up* |
 | [Study-CSS-Buttons](https://github.com/john-azzaro/Study-CSS-Buttons)  | Exploration of custom CSS buttons  |   |  *Wrap-up* |
 | [study]()  | description  | [demo]()  |  *status* |
