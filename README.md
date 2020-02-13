@@ -1,25 +1,19 @@
 # Respository Guide
 <br>
 
-## What is Respository Guide all about?
-Repository Guide is intended to serve as an index links to projects and studies in one convienent place. Of course, the list 
-will continue to grow and further notes and connections will be added as time goes on.
-
-
+## What is the Respository Guide?
+The Repository Guide is a handy index of links to studies, guides, projects, etc. that will help make it easier to browse past work and research in one convienent repository without having to sift through my general repositories list. For each repository, you'll find the exact name and link to that respective repository. You'll also see a brief description of the repository, a direct link to the demo, and the status of the repository.  
 
 <br>
 
-## Applications
+## Projects
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [study]()  | description  | **** |  *status* |
-| [study]()  | description  | **** |  *status* |
-| [study]()  | description  | **** |  *status* |
-
 
 <br>
 
-## Front End
+## Front End Studies
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [Study API](https://github.com/john-azzaro/Study-API)  | Study of basic API implementation | [demo](https://john-azzaro.github.io/Study-API/)  |  *Wrap-up* |
@@ -45,7 +39,7 @@ will continue to grow and further notes and connections will be added as time go
 
 <br>
 
-## Back End
+## Back End Studies
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
 | [Study Node Web Servers](https://github.com/john-azzaro/Study-Node-Web-Servers)  | Examination of HTML servers without frameworks.  | **Demo**  |  *Completed* |
@@ -80,8 +74,7 @@ will continue to grow and further notes and connections will be added as time go
 | [Basic Blog App with Integration Tests](https://github.com/john-azzaro/Basic-Blog-App-with-Integration-Tests)  | Basic Express app with integration tests  | **Demo**  |  *Wrap-up* |
 | [Mongoose Integration Testing](https://github.com/john-azzaro/Study-Mongoose-Integration-Testing)  | Integrating Integration Tests into application.  | **Demo**  |  *Wrap-up* |
 | [study]()  | description  | ****  |  *status* |
-| [study]()  | description  | ****  |  *status* |
-| [study]()  | description  | ****  |  *status* |
+
 
 
 <br>
@@ -94,6 +87,5 @@ will continue to grow and further notes and connections will be added as time go
 | [Git Guide](https://github.com/john-azzaro/Git_Guide)  | List of common Git commands and workflows  | **Yes**  |  *Ongoing* |
 | [Backend Programming Recipes](https://github.com/john-azzaro/Backend_Programming_Recipes)  | Collection of Backend outlines.  | **Yes**  |  *Ongoing* |
 | [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
-| [study]()  | description  | [demo]()  |  *status* |
+
 
