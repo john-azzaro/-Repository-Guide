@@ -45,7 +45,7 @@ The Repository Guide is a handy index of links to studies, guides, projects, etc
 | [Study Node Web Servers](https://github.com/john-azzaro/Study-Node-Web-Servers)  | Examination of HTML servers without frameworks.  | **Demo**  |  *Completed* |
 | [Study Mongoose Schemas](https://github.com/john-azzaro/Study-Mongoose-Schemas)  | Examination of schemas, models, virtuals, instance methods, etc.  | **Demo**  |  *Completed* |
 | [Study Mongoose Configuration and Data Modeling](https://github.com/john-azzaro/Study-Mongoose-Configuration-and-Data-Modeling)  | Mongoose implementation.  | **Demo**  |  *Completed* |
-| [Study Mongoose App Deployment](https://github.com/john-azzaro/Study-Mongoose-App-Deployment)  | Deployment of Mongoose App using Atlas and Heroku.  |   |  *Ongoing* |
+| [Study Mongoose App Deployment](https://github.com/john-azzaro/Study-Mongoose-App-Deployment)  | Deployment of Mongoose App using Atlas and Heroku.  |   |  *Completed* |
 | [Study Cloud Deployment with Heroku](https://github.com/john-azzaro/Study-Cloud-Deployment-with-Heroku)  | Examination and implementation of Heroku.    |    |  *Ongoing* |
 | [Study Express Website](https://github.com/john-azzaro/Study-Express-Website)  | Deployment of Basic Express application.  | **Demo**  |  *Wrap-up* |
 | [Study Express Basic App](https://github.com/john-azzaro/Study-Express-Basic-App)  | Basic Express app with counter functionality.  | **Demo**  |  *Wrap-up* |
