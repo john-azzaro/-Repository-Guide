@@ -29,7 +29,6 @@ The Repository Guide is a handy index of links to studies, guides, projects, etc
 | [Study Scroll Magic API](https://github.com/john-azzaro/Study-Scroll-Magic-API)  | Scroll animation using Scroll Magic.  | [demo](https://john-azzaro.github.io/Study-Scroll-Magic-API/)  |  *Completed* |
 | [Study Client Side Data Validation](https://github.com/john-azzaro/Study-Client-Side-Form-Data-Validation)  | Notifcations on form submission errors.  | [demo](https://john-azzaro.github.io/Study-Client-Side-Form-Data-Validation/)  |  *Completed* |
 | [Study Responsive CSS Navigation](https://github.com/john-azzaro/Study-Responsive-CSS-Navigation)  | Responsive navigation with vanilla CSS animation.  | [demo](https://john-azzaro.github.io/Study-Responsive-CSS-Navigation/)  |  *Completed* |
-| [Study JavaScript Methods](https://github.com/john-azzaro/Study-JavaScript-Methods)  | Handy cheat-sheet of JavaScript methods.  |   |  *Ongoing* |
 | [Study JavaScript Gallery](https://github.com/john-azzaro/Study-JavaScript-Gallery)  | Image gallery with main and 3 previews.  | [demo](https://john-azzaro.github.io/Study-JavaScript-Gallery/)  |  *Completed* |
 | [Study-SVG-Animations](https://github.com/john-azzaro/Study-SVG-Scalable-Vector-Graphic-Animations)  | Implementation of SVG animations.  | [demo](https://john-azzaro.github.io/Study-SVG-Scalable-Vector-Graphic-Animations/)  |  *Completed* |
 | [Study-CSS-Grid](https://github.com/john-azzaro/Study-CSS-Grid)  | Basic Study of CSS Grid functionality.  | [demo](https://john-azzaro.github.io/Study-CSS-Grid/)  |  *Completed* |
