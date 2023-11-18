@@ -6,13 +6,6 @@ The Repository Guide is a handy index of links to studies, guides, projects, etc
 
 <br>
 
-## Projects
-| **Study**                   |   **Description**                  | **Demo**          | **Status**                |
-| ----------------------------| -----------------------------------| ------------------| --------------------------|
-| [study]()  | description  | **** |  *status* |
-
-<br>
-
 ## Front End Studies
 | **Study**                   |   **Description**                  | **Demo**          | **Status**                |
 | ----------------------------| -----------------------------------| ------------------| --------------------------|
@@ -33,7 +26,6 @@ The Repository Guide is a handy index of links to studies, guides, projects, etc
 | [Study-SVG-Animations](https://github.com/john-azzaro/Study-SVG-Scalable-Vector-Graphic-Animations)  | Implementation of SVG animations.  | [demo](https://john-azzaro.github.io/Study-SVG-Scalable-Vector-Graphic-Animations/)  |  *Completed* |
 | [Study-CSS-Grid](https://github.com/john-azzaro/Study-CSS-Grid)  | Basic Study of CSS Grid functionality.  | [demo](https://john-azzaro.github.io/Study-CSS-Grid/)  |  *Completed* |
 | [Study-CSS-Buttons](https://github.com/john-azzaro/Study-CSS-Buttons)  | Exploration of custom CSS buttons  |   |  *Completed* |
-| [addStudy]()  | description  | [demo]()  |  *status* |
 
 
 <br>
@@ -72,9 +64,6 @@ The Repository Guide is a handy index of links to studies, guides, projects, etc
 | [Basic Blog App with Embedded Models](https://github.com/john-azzaro/Basic-Blog-App-with-Embedded-Models)  | Improved Blog Application with embedded models. | **Demo**  |  *Wrap-up* |
 | [Basic Blog App with Integration Tests](https://github.com/john-azzaro/Basic-Blog-App-with-Integration-Tests)  | Basic Express app with integration tests  | **Demo**  |  *Wrap-up* |
 | [Mongoose Integration Testing](https://github.com/john-azzaro/Study-Mongoose-Integration-Testing)  | Integrating Integration Tests into application.  | **Demo**  |  *Wrap-up* |
-| [study]()  | description  | ****  |  *status* |
-
-
 
 <br>
 
@@ -85,6 +74,6 @@ The Repository Guide is a handy index of links to studies, guides, projects, etc
 | [JavaScript Recipes](https://github.com/john-azzaro/JavaScript_Recipes)  | Collection of JavaScript outlines, extended studies, etc.  | **Yes**  |  *Ongoing* |
 | [Git Guide](https://github.com/john-azzaro/Git_Guide)  | List of common Git commands and workflows  | **Yes**  |  *Ongoing* |
 | [Backend Programming Recipes](https://github.com/john-azzaro/Backend_Programming_Recipes)  | Collection of Backend outlines.  | **Yes**  |  *Ongoing* |
-| [study]()  | description  | [demo]()  |  *status* |
+
 
 
